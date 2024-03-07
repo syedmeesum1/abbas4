@@ -1,0 +1,36 @@
+body{
+ background-color:burlywood;
+}
+h1{
+
+    color:black;
+    
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+font-family:'Courier New', Courier, monospace;    
+}
+h2{
+    font-size:150%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(22, 0, 0);
+}
+li{
+    font-family:'Times New Roman', Times, serif;
+}
+td{
+   font-style: oblique;
+}
+h3{
+    color: rgb(22, 0, 0);
+   font-size: 150%;
+    font-family: Verdana, Tahoma, sans-serif;
+    
+}
+th{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.a{ 
+    text-align: center;
+}
